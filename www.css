@@ -1,0 +1,18 @@
+a{
+    color:darkgreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:gold;
+}
+a:hover{
+    color: orange;
+}
+body{
+    background-image: url('img_girl.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
